@@ -1,2 +1,2 @@
-# main
+# foryzenのホームページ
 hello world
